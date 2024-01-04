@@ -1,2 +1,2 @@
 # Topic-1
-Algorithm and Programming in (C# &amp; Python)
+Algorithm and Programming in C#
