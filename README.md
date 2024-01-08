@@ -2,6 +2,8 @@
 
 Welcome to the C# Programming Guide repository! This guide is designed to help you understand and master the fundamentals of C# programming. Whether you're a beginner or looking to refresh your skills, this guide covers essential topics to get you started.
 
+![C# Logo]([https://example.com/csharp-logo.png](https://images.unsplash.com/photo-1542831371-29b0f74f9713?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D))
+
 ## Table of Contents
 
 1. [Persiapan Environment C#](#persiapan-environment-c)
